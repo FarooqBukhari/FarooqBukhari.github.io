@@ -1,1 +1,1 @@
-"# FarooqBukhari.github.io" 
+FarooqBukhari.github.io
